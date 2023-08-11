@@ -9,7 +9,7 @@ While this is only a glimpse into the capabilities of my skill set, it is critic
 Thank you for taking the time from your busy schedule to read that. I want to ensure I am providing a proper and 
 
 ## Instructions For Viewing Project/Work Sample
-In the tab list above, please click "Wiki" which will take you to the project being presented.
+[Please click here to be redirected to the Project being Presented](https://github.com/MalikNHood/Work-Sample/wiki)
 
 ---
 **Project Title**: Idrinth's Dream Framework Documentation
