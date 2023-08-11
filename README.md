@@ -12,6 +12,6 @@ Thank you for taking the time from your busy schedule to read that. I want to en
 In the tab list above, please click "Wiki" which will take you to the project being presented.
 
 ---
-**Project Title**: Idrinth's Dream Framework
+**Project Title**: Idrinth's Dream Framework Documentation
 
 **Link to modification page**: https://www.nexusmods.com/skyrimspecialedition/mods/68516
